@@ -1,4 +1,4 @@
-# projeto-integrador2
+# projeto SmartBus
 
 Bem vindo ao projeto o SmartBus (3 interfaces)
 feito por: Philype jorge 
