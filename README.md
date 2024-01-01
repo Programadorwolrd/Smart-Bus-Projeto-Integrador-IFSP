@@ -1,6 +1,6 @@
 # projeto-integrador2
 
-Bem vindo ao projeto o SmartBus
+Bem vindo ao projeto o SmartBus (3 interfaces)
 feito por: Philype jorge 
 
 
@@ -12,20 +12,20 @@ feito por: Philype jorge
   
 O projeto Smart Bus é uma solução abrangente que utiliza tecnologias como Prisma, SQL, Bootstrap, Node.js, API e EJS para desenvolver um sistema completo para a gestão de um serviço de ônibus. Este projeto apresenta três interfaces principais: a catraca, o site público e a página de controle administrativo, que inclui operações CRUD (Create, Read, Update, Delete).
 
-Catraca:
-
+Página da catraca:
 A interface da catraca é projetada para controlar o acesso dos passageiros ao ônibus de maneira eficiente.
 Integra-se ao sistema central, utilizando Node.js e API para comunicação em tempo real e registro de eventos.
 Armazena dados relacionados às entradas e saídas de passageiros no banco de dados, gerenciado pelo Prisma e SQL.
 Fornece uma camada de segurança adicional ao sistema, garantindo o correto controle de acesso.
-Site Público:
 
+Site publico:
 Desenvolvido com Bootstrap, o site público oferece uma interface responsiva e amigável para os usuários do serviço de ônibus.
 Utiliza EJS para renderização dinâmica de páginas, proporcionando uma experiência interativa e eficiente.
 Oferece funcionalidades como consulta de horários, itinerários, informações sobre paradas e até mesmo a compra de passagens online.
 A integração com a API permite que o site acesse dados em tempo real do sistema, mantendo as informações sempre atualizadas.
-Página de Controle Administrativo (CRUD):
 
+
+Página de Controle Administrativo (CRUD):
 A página de controle administrativo é destinada aos gestores e administradores do sistema de transporte.
 Desenvolvida com Bootstrap para uma interface intuitiva e de fácil navegação.
 Utiliza operações CRUD para gerenciar informações cruciais, como dados de passageiros, rotas, horários e registros da catraca.
