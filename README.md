@@ -32,3 +32,6 @@ A interação com o banco de dados (Prisma e SQL) permite a manipulação eficie
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=programadorwolrd&show_icons=true&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorwolrd&layout=compact"/>
 </div>
+
+
+Figma do projeto:https://www.figma.com/file/OucYCsw2PVy5K0a7IhWJHn/SMARTBUS-COMPLETO?type=design&node-id=2-2&mode=design&t=U6F9OZrVIBlvPaHI-0
